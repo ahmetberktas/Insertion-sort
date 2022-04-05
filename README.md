@@ -1,6 +1,6 @@
 # Insertion-sort
 
-Kodluyoruz Front-End Eğitimi kapsamında yaptığım yaptığım Insertion Sort projesi.
+Kodluyoruz Front-End Eğitimi kapsamında yapmış olduğum Insertion Sort projesi.
 
 www.patika.dev
 
